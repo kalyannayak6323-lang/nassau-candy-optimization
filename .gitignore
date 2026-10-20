@@ -1,0 +1,1 @@
+.venv/\n__pycache__/\n*.py[cod]\n.DS_Store\nThumbs.db\n.env\ndata/*.xlsx\ndata/*.csv\noutputs/*\n!data/README.md\n!outputs/README.md\n
